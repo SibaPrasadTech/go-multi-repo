@@ -1,0 +1,6 @@
+[submodule "go-dts"]
+	path = go-dts
+	url = https://github.com/SibaPrasadTech/go-dts.git
+[submodule "go-trekking"]
+	path = go-trekking
+	url = https://github.com/SibaPrasadTech/go-trekking.git
